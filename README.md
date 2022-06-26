@@ -1,2 +1,0 @@
-# facerecognition
-backend/server
